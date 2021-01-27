@@ -13,6 +13,7 @@ export default function Home() {
             <li>Home</li>
             <li>Produtos</li>
             <li>Contact-nos</li>
+            <li>Novidades</li>
           </ul>
         </Nav>
       </div>
